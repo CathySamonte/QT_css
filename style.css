@@ -1,0 +1,58 @@
+h3{
+  color: crimson;
+  background-color: darkgrey;
+  font-size: 40px;
+  font-family: 'Courier New',
+  Courier,
+  monospace;
+}
+h1{
+  color: darkgoldenrod;
+font-size: 70px;
+text-align: center;
+}
+h2{
+color: crimson;
+background-color: darkgrey;
+  font-size: 40px;
+  font-family: 'Courier New',
+  Courier,
+  monospace;
+}
+p{
+  color: white;
+  font-size: 30px;
+  text-align: left;
+}
+li{
+  font-size: 25px;
+  color: white;
+}
+body{
+  font-family: 'Courier New', Courier, monospace;
+  background-image: url('background.jpeg');
+}
+h4{
+  color: crimson;
+  background-color: darkgrey;
+  font-size: 40px;
+  font-family: 'Courier New',
+  Courier,
+  monospace;
+}
+h5{
+  color: crimson;
+  background-color: darkgrey;
+  font-size: 40px;
+  font-family: 'Courier New',
+  Courier,
+  monospace;
+}
+h6 {
+  color: crimson;
+  background-color: darkgrey;
+  font-size: 40px;
+  font-family: 'Courier New',
+    Courier,
+    monospace;
+}
